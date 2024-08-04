@@ -1,0 +1,12 @@
+{
+  "ProjectName": "EnhancedLoggingAO",
+  "Description": "EnhancedLogging",
+  "Version": "0.0.1",
+  "Manifest": {
+    "Author": "Abdullah Ollivierre",
+    "PowerShellHostVersion": "7.4",
+    "GUID": "a244a538-325b-43e9-96c6-e807d7fbf70a",
+    "Tags": [],
+    "ProjecUri": ""
+  }
+}
