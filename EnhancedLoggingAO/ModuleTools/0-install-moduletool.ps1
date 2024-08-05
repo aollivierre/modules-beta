@@ -1,1 +1,0 @@
-Install-Module -Name ModuleTools -Scope AllUsers -Force
