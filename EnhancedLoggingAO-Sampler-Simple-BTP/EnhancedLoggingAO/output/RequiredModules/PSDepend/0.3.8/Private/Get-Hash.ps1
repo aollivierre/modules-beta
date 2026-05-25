@@ -1,4 +1,4 @@
-﻿function Get-Hash { 
+function Get-Hash { 
     <#
         .SYNOPSIS
             Calculates the hash on a given file based on the seleced hash algorithm.

@@ -1,4 +1,4 @@
-﻿#Region '.\Header\00. param.ps1' 0
+#Region '.\Header\00. param.ps1' 0
 param(
    $Converters = @{}
 )

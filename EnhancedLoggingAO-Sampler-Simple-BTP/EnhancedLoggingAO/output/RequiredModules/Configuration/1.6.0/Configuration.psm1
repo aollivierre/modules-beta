@@ -1,4 +1,4 @@
-﻿#Region '.\Header\param.ps1' 0
+#Region '.\Header\param.ps1' 0
 # Allows you to override the Scope storage paths (e.g. for testing)
 param(
     $Converters = @{},

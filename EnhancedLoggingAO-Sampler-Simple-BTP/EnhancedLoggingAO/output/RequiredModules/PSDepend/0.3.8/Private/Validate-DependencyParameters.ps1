@@ -1,4 +1,4 @@
-﻿function Validate-DependencyParameters {
+function Validate-DependencyParameters {
     [cmdletbinding()]
     param(
         [string[]]$Required,

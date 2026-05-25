@@ -1,4 +1,4 @@
-﻿function Add-ObjectDetail
+function Add-ObjectDetail
 {
     <#
     .SYNOPSIS

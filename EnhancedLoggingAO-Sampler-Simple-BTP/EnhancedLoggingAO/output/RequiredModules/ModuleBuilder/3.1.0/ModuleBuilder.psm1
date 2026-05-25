@@ -1,4 +1,4 @@
-﻿#Region './Classes/AliasVisitor.ps1' 0
+#Region './Classes/AliasVisitor.ps1' 0
 using namespace System.Management.Automation.Language
 using namespace System.Collections.Generic
 

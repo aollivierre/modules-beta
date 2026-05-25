@@ -1,4 +1,4 @@
-﻿# Borrowed from http://poshcode.org/5929 with a minor tweak for validateset - thanks all!
+# Borrowed from http://poshcode.org/5929 with a minor tweak for validateset - thanks all!
 Function Get-Parameter {
    #.Synopsis 
    #  Enumerates the parameters of one or more commands
