@@ -10981,7 +10981,7 @@ function EscapeSingleQuotedStringContent ($Content) {
         [System.Management.Automation.Language.CodeGeneration]::EscapeSingleQuotedStringContent($Content)
     }
     else {
-        $Content -replace "['‘’‚‛]", '$&$&'
+        $Content -replace "['[U+2018][U+2019]'[U+201B]]", '$&$&'
     }
 }
 

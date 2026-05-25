@@ -1,4 +1,4 @@
-﻿@{
+@{
     IncludeRules=@('PSDSC*')
 }
 # SIG # Begin signature block

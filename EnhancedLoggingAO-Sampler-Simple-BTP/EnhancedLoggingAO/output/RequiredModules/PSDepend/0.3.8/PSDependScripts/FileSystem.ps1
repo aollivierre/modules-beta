@@ -1,4 +1,4 @@
-﻿<#
+<#
     .SYNOPSIS
         EXPERIMENTAL: Use Robocopy or Copy-Item for folder and file dependencies, respectively.
 

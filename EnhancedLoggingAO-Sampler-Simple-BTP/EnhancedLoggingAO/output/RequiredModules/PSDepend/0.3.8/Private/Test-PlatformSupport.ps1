@@ -1,4 +1,4 @@
-﻿function Test-PlatformSupport {
+function Test-PlatformSupport {
     [cmdletbinding()]
     param(
         $Type,
